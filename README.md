@@ -6,6 +6,10 @@
 
 ## Preview
 
+<p align="center">
+  <img src="tools1.png" alt="Tools Preview" width="800">
+</p>
+
 ## Key Features
 
 * **170 Operational Modules:** Covers Recon, Web Auditing, Offensive Testing, Blue Team, Cloud, Crypto, System Utils, Wireless, IoT, Forensics, OSINT, and Test Simulations.
