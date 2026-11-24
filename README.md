@@ -122,5 +122,5 @@ This project is distributed under the **MIT** license. See the [`LICENSE`](./LIC
 
 * **Bug Reports & Feature Requests:** Open an [Issue](https://github.com/nowii-core/cyberlab/issues) or submit a [Pull Request](https://github.com/nowii-core/cyberlab/pulls).
   
-```
+
 <div align="center"> <sub>Developed by <b>nowii-core</b></sub> </div>
